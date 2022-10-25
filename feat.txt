@@ -1,0 +1,7 @@
+add head and desc
+display all notes
+click on notes to specific view
+make notes editable
+main page - two buttons 
+1) add notes
+2) display all notes
